@@ -9,11 +9,7 @@ This dataset, covering the top 1,000 US city-pair markets (fares, distance, shar
 Lists number of one-way passenger trips per day, nonstop distance, average market fare, and average fare for both airlines
 
 ## Data Cleaning
-Standardized airline code and city names 
-Created new columns 
-Added routes 
-Normalized time definitions
+Standardized airline code and city names, Created new columns, Added routes, Normalized time definitions
 
 ## Supplemental Data
-Full dataset of Contiguous State City-Pair Markets
-Full Segment Summary by Each Carrier 
+Full dataset of Contiguous State City-Pair Markets, Full Segment Summary by Each Carrier 
